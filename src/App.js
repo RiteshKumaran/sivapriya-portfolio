@@ -60,7 +60,7 @@ function App() {
       <Services />
       <Myprojects />
       {/* <Testimonial /> */}
-      <Together />
+      {/* <Together /> */}
       <Footer />
       <script src={script}></script>
       <div className="cursor" />

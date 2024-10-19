@@ -3,7 +3,6 @@ import logo from "../image/logo.png";
 const Header = () => {
   return (
     <div className="header">
-      <img src={logo} height="60" alt="logo" />
       <h2>
         <span>S</span>ivapriya
       </h2>

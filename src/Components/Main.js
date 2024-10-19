@@ -23,7 +23,7 @@ const Main = () => {
           <h3>Hi I am</h3>
           <h2>Sivapriya</h2>
           <h1>
-            Tech <p>Enthusiast</p>
+            Tech <p style={{ color: "#f4b8da" }}>Enthusiast</p>
           </h1>
           <p>
             Here you'll find a collection of my interests,skills and project

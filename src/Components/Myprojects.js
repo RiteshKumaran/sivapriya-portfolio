@@ -2,9 +2,9 @@ import React from "react";
 import { useEffect } from "react";
 import webdemo from "../image/web-page1.png";
 import grade from "../image/grade.jpeg";
-import calc from "../image/calc.jpg";
+import calc from "../image/calc.jpeg";
 import fashion from "../image/fashion.jpeg";
-import todo from "../image/todo.png";
+import todo from "../image/todo.jpeg";
 import uxu from "../image/uiux.png";
 
 const Myprojects = () => {

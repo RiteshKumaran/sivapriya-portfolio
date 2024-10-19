@@ -5,17 +5,27 @@ const Footer = () => {
     <div className="bottom-nav">
       <div style={{ height: "50px" }}></div>
       <div className="nav">
-        <img alt="logo" src={logo} height="60" />
-        <h2>Sivapriya</h2>
+        {/* <img alt="logo" src={logo} height="60" /> */}
+        <span style={{ color: "#f4b8da", fontSize: "35px" }}>S</span>
+        <h2>ivapriya</h2>
       </div>
       <div className="navigator">
         <ul type="none">
-          <li>Home</li>
-          <li>About Me</li>
-          <li>Services</li>
-          <li>Projects</li>
-
-          <li>Contact</li>
+          <a href=".">
+            <li>Home</li>
+          </a>
+          <a href="#content-body">
+            <li>About Me</li>
+          </a>
+          <a href="#services-div">
+            <li>Interests</li>
+          </a>
+          <a href="#my-projects">
+            <li>Projects</li>
+          </a>
+          <a href="#together">
+            <li>Contact</li>
+          </a>
         </ul>
       </div>
       <div>
